@@ -1,11 +1,46 @@
 body {
 	overflow-x: hidden; /*--right gutter fix--*/
+	font-family: sans-serif;
+	color: #505962;
 }
 
+.navbar{
+	text-transform: uppercase;
+	background-color: #505962;
+}
 
 .navbar-brand img{
 	height: 2rem;
 }
+
+.home-inner{
+	background-image: url(img/landing.png);
+}
+
+.caption{
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	top: 40%;
+	z-index: 1;
+}
+
+.caption h3{
+	color: white;
+	font-size: 2.4rem;
+	text-transform: uppercase;
+	padding-bottom: 2rem;
+}
+
+.btn{
+	border-width: medium;
+	border-radius: 0;
+	text-transform: uppercase;
+	padding: .5rem 1.1rem;
+	font-size: .9rem;
+}
+
+
 
 
 
