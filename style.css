@@ -40,6 +40,50 @@ body {
 	font-size: .9rem;
 }
 
+.heading{
+	text-align: center;
+	font-size: 1.9rem;
+	text-transform: uppercase;
+	margin-bottom: 1.9rem;
+}
+
+.padding{
+	padding: 2rem 0;
+}
+
+img.portfolio{
+	max-width: 100%;
+}
+
+.no-padding .col-md-6{
+	padding: 0;
+}
+
+.card{
+	margin: 2rem;
+}
+
+.footer .row{
+	background-color: #505962;
+	padding: 1rem 2rem 3rem;
+	color: white;
+}
+
+.footer img{
+	height: 2rem;
+	margin: 1.5rem 0;
+}
+
+
+
+
+
+
+
+
+
+
+
 
 
 
