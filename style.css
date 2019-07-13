@@ -84,7 +84,15 @@ img.portfolio{
 
 
 
+@media (max-width: 767px) {
+	.card-body h4, p{
+		text-align: center;
+	}
 
+	#about h4, p{
+		text-align: center;
+	}
+}
 
 
 
